@@ -1,1 +1,0 @@
-# Garena-binded-api
